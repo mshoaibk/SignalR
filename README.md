@@ -1,9 +1,10 @@
 # SignalR
-"This code demonstrates a SignalR backend and Angular frontend implementation."
-"In Hubservices/MyHub.cs, you can find the backend code implementation."
-"For the frontend service implementation, check ClientApp/src/app/Services/signal-r.service.ts."
+This code demonstrates a SignalR backend and Angular frontend implementation,
+In Hubservices/MyHub.cs, you can find the backend code implementation.
+For the frontend service implementation, check ClientApp/src/app/Services/signal-r.service.ts.
 
-Steps
+Steps: 
+
 1.Create a .NET Core API:
 Start by creating a new .NET Core Web API project using the dotnet new command or a development IDE like Visual Studio or Visual Studio Code.
 

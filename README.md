@@ -1,4 +1,8 @@
 # SignalR
+SignalR is a real-time web communication library for .NET that enables developers to create interactive, live-updating web applications by facilitating real-time communication between web servers and clients, such as web browsers and mobile apps, using a variety of transport mechanisms like WebSockets and Server-Sent Events. This allows for features like chat applications, live notifications, and dynamic content updates without the need for manual polling or refreshing of web pages.
+
+# imimplementation:
+
 This code demonstrates a SignalR backend and Angular frontend implementation,
 In Hubservices/MyHub.cs, you can find the backend code implementation.
 For the frontend service implementation, check ClientApp/src/app/Services/signal-r.service.ts.
